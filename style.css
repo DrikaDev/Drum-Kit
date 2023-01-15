@@ -21,12 +21,18 @@ main{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    border: solid pink;
 }
 
 .title{
+    width: 30rem;
     color: gold;
-    font-size: 5rem;
-    text-shadow: 0 0 20px gold; 
+    font-size: 4.7rem;
+    font-weight: bolder;
+  
+    text-align: center;
+    margin-bottom: 3rem;
+    margin-top: 2rem;
 }
 
 .container{
@@ -34,9 +40,10 @@ main{
     height: 15rem;
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
+    justify-content: center;
+    
     flex-wrap: wrap;
+    gap: 1.5rem;
 }
 
 .key{
@@ -54,7 +61,7 @@ main{
     transition: 1s;
 }
 
-.key:hover{
+.active{
     transform: scale(1.2);
     border-color: yellow;
     box-shadow: 0 0 50px yellow;
