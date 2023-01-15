@@ -17,4 +17,4 @@ Projeto para treino de JavaScript.
 </tr>
 </table>
 
-https://user-images.githubusercontent.com/102387476/212503134-8ef515af-58eb-4e8e-9d3a-d7fc5e402ab0.mp4
+https://user-images.githubusercontent.com/102387476/212503252-ba1bb82f-c3e0-4f31-890b-af0af7607b7e.mp4
